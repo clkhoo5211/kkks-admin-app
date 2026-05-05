@@ -1,6 +1,6 @@
 {
   "app": "admin-app",
-  "commit": "6bdbb1c",
-  "builtAt": "2026-05-05T13:16:03.384Z",
-  "baseUrl": "https://kkks-admin-app.vercel.app"
+  "commit": "f003fa1",
+  "builtAt": "2026-05-05T13:26:09.692Z",
+  "baseUrl": "https://kkks-admin-app.vercel.app/api/v1"
 }
